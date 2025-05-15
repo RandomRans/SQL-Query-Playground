@@ -25,12 +25,18 @@ This repository contains a growing set of practice SQL queries I've written to b
 
 ---
 
-## 🖼️ Screenshots (Coming Soon)
+### 🖼️ Sample Screenshots
 
-I'll be including screenshots showing:
-- Query output
-- Excel-integrated dashboards
-- ER diagrams and table relationships
+Below are example outputs from MySQL Workbench showing the results of queries from this project:
+
+- ✅ Appointment scheduling filters  
+  ![Scheduling Query](./screenshots/scheduling_query_result1.png)
+- ✅ Active employee reporting  
+  ![Employee List](./screenshots/employee_list_active1.png)
+- ✅ Login audit JOIN output  
+  ![Login Audit](./screenshots/joins_login_audit.png)
+
+More screenshots will be added as projects grow.
 
 ---
 
