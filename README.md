@@ -1,6 +1,3 @@
-# SQL-Query-Playground
-A collection of practice SQL queries for reporting, filtering, and data analysis
-
 # 📊 SQL Query Playground
 
 This repository contains a growing set of practice SQL queries I've written to build and reinforce my understanding of data analysis, filtering, and reporting. These examples are based on real-world use cases such as healthcare scheduling, employee records, inventory management, and audit tracking.
